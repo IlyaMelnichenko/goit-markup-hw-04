@@ -31,7 +31,7 @@ body {
 }
 a {
   text-decoration: none;
-  /* color:inherit; */
+  
 }
 ul {
   list-style: none;
@@ -94,8 +94,6 @@ img {
   width: 264px;
   height: 112px;
   display: flex;
-  /* align-items: center;
-  justify-content: center; */
   border-radius: 4px;
 }
 /* solutions */
@@ -168,9 +166,6 @@ img {
   width: 40px;
   height: 40px;
   display: flex;
-
-  /* justify-content: center;
-  align-items: center; */
 }
 .network-link:hover,
 .network-link:focus {
@@ -418,6 +413,8 @@ img {
 .footer {
   background-color: var(--primary-text-color);
   padding: 100px 0px;
+  
+  
 }
 .current {
   color: var(--ocen-color);
